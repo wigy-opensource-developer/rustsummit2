@@ -18,8 +18,8 @@ impl Shape {
 
 #[cfg(test)]
 mod test {
-    use crate::*;
     use super::*;
+    use crate::*;
 
     #[test]
     fn contrived_example() {

@@ -1,0 +1,14 @@
+{
+    "type": "Composite",
+    "value": [
+        {
+            "type": "Circle",
+            "radius": 0.5641896
+        },
+        {
+            "type": "Rectangle",
+            "width": 1.0,
+            "height": 2.0
+        }
+    ]
+}
